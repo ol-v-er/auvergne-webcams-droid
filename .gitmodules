@@ -1,4 +1,1 @@
-[submodule "private"]
-	path = private
-	url = https://github.com/openium/auvergne-webcams-droid-private.git
-	branch = main
+
